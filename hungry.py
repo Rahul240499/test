@@ -7,7 +7,7 @@ Created on Mon Mar 18 23:57:12 2019
 
 # print("I'm hungry")
 hungry=input("are you hungry?")
-if hungry=="yes":
+if hungry=="yes" or hungry=="y":
     print("eat samosa")
     print("eat pizza")
     print("eat burger")
