@@ -20,6 +20,8 @@ else:
         print("drink soda")
         print("drink beer")
         print("drink juice")
+        print("drink juice")
+        print("drink juice")
         
 
 
