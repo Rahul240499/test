@@ -20,3 +20,5 @@ else:
 	print("eat something")
 
 print("Drink Soda as well!")
+
+print(" A new thing is added!")
