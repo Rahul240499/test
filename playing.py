@@ -13,14 +13,4 @@ print("Adding just for learning purpose")
 print("This is a commited change")
 print("This is another commited change")
 
-<<<<<<< HEAD
-print("I am eating fries!")
-=======
-thirst=input("Are you thirsty")
-if thirst=="yes":
-	print("Drink something")
-else:
-	print("eat something")
-
-print("Drink Soda as well!")
->>>>>>> thirsty
+print("a new change")
