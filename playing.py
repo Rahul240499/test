@@ -18,3 +18,5 @@ if thirst=="yes":
 	print("Drink something")
 else:
 	print("eat something")
+
+print("Drink Soda as well!")
