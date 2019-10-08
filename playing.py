@@ -22,3 +22,5 @@ else:
 print("Drink Soda as well!")
 
 print(" A new thing is added!")
+
+print("I love Gintama")
