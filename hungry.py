@@ -24,6 +24,8 @@ else:
         print("drink juice")
         print("drink juice")
 
+print("Let's be friends")
+
         
 
 
